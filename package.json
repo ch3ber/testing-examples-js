@@ -1,0 +1,27 @@
+{
+  "name": "testing-examples",
+  "version": "1.0.0",
+  "description": "A bunch of testing examples with JS",
+  "main": "index.js",
+  "workspaces": [
+    "examples/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "sui-mono commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch3ber/testing-examples-js.git"
+  },
+  "keywords": [],
+  "author": "Eber Edrey Alejo Berrones <eber4202@hotmail.com> (https://ch3ber.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ch3ber/testing-examples-js/issues"
+  },
+  "homepage": "https://github.com/ch3ber/testing-examples-js#readme",
+  "dependencies": {
+    "@s-ui/mono": "2.34.0"
+  }
+}

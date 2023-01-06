@@ -1,0 +1,15 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Eber Edrey Alejo Berrones <eber4202@hotmail.com> (https://ch3ber.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "29.3.1"
+  }
+}
